@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CapturarBoton"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/white">
+
+    <!--PARTE 1-->
+
+    <TextView
+
+        android:id="@+id/tv1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ingrese el primer valor"
+        android:textColor="@color/black"/>
+
+    <EditText
+        android:id="@+id/et1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="primer valor"
+        android:textColorHint="#515151"
+        android:ems="10"
+        android:inputType="number"
+        android:textColor="@color/black"/>
+    <!--PARTE 2-->
+    <TextView
+        android:id="@+id/tv2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ingrese el segundo valor"
+        android:textColor="@color/black" />
+
+    <EditText
+        android:id="@+id/et2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="segundo valor"
+        android:textColorHint="#515151"
+        android:ems="10"
+        android:inputType="number"
+        android:textColor="@color/black"/>
+
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center"
+    >
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:onClick="sumar"
+        android:layout_marginRight="10dp"
+        android:textSize="10dp"
+        android:text="Sumar" />
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:textSize="10dp"
+        android:onClick="salir"
+        android:text="Ir al inicio" />
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:textSize="10dp"
+        android:layout_marginLeft="10dp"
+        android:onClick="nuevo"
+        android:text="Nuevos datos"
+        />
+</LinearLayout>
+
+
+    <TextView
+        android:id="@+id/tv3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Resultado"
+        android:textColor="@color/black"
+        android:textSize="25dp"/>
+
+</androidx.appcompat.widget.LinearLayoutCompat>

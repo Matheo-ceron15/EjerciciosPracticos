@@ -1,0 +1,66 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.ejerciciospracticos.MainActivity"
+    android:background="@color/white"
+    >
+    <item
+        android:id="@+id/guia1"
+        android:title="Guia 1"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        />
+    <item android:id="@+id/pantalla1"
+        android:title="@string/pantalla1"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/pantalla2"
+        android:title="@string/pantalla2"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/pantalla3"
+        android:title="@string/pantalla3"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/pantalla4"
+        android:title="@string/pantalla4"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/pantalla5"
+        android:title="@string/pantalla5"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/pantalla6"
+        android:title="@string/pantalla6"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/pantalla7"
+        android:title="@string/pantalla7"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/pantalla8"
+        android:title="@string/pantalla8"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/pantalla9"
+        android:title="@string/pantalla9"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/problema"
+        android:title="@string/problema"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/pantalla10"
+        android:title="@string/pantalla10"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/pantalla11"
+        android:title="@string/pantalla11"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/pantalla12"
+        android:title="@string/pantalla12"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+</menu>

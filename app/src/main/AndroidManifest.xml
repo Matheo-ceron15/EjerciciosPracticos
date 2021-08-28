@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ejerciciospracticos">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/itca"
+        android:label="Ejercicios Practicos"
+        android:roundIcon="@drawable/itca"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.EjerciciosPracticos">
+        <activity
+            android:name=".ProblemaPropuesto2"
+            android:exported="true" />
+        <activity android:name=".AlmacenamientoClaseShared" />
+        <activity android:name=".ActivityParemetros2" />
+        <activity android:name=".ActivityParametros" />
+        <activity android:name=".Bienvenida" />
+        <activity android:name=".ProblemaPropuesto" />
+        <activity android:name=".AcercaDe" />
+        <activity android:name=".LanzarSegundaActividad" />
+        <activity android:name=".ControlEditText" />
+        <activity android:name=".NotificacionesSencillas" />
+        <activity android:name=".ControlimgeButton" />
+        <activity android:name=".ControlListView" />
+        <activity android:name=".ControladorSpinner" />
+        <activity android:name=".ControlCheckBox" />
+        <activity android:name=".RadioGroup" />
+        <activity android:name=".CapturarBoton" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.EjerciciosPracticos.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

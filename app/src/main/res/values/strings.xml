@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">App basica</string>
+    <!--MENU DE OPCIONES -->
+    <string name="pantalla1">Capturar el clic de un boton</string>
+    <string name="pantalla2">Controles RadioGrup y RadioButton</string>
+    <string name="pantalla3">Control Checkbox</string>
+    <string name="pantalla4">Control Spinner</string>
+    <string name="pantalla5">Control ListView</string>
+    <string name="pantalla6">Control ImagenButton</string>
+    <string name="pantalla7">Notificaciones secillas con la clase Toast</string>
+    <string name="pantalla8">Control EditText</string>
+    <string name="pantalla9">Lanzar un segundo Activity</string>
+    <string name="problema">Problema presentado</string>
+    <string name="pantalla10">Lanzar un segundo Activity y parametros</string>
+    <string name="pantalla11">Almacenamiento de datos clase sharedPreferens</string>
+    <string name="pantalla12">Problema presentado 2</string>
+    <string name="creador">Nombre: Cristian Mateo Ceron Faustino SIS21B</string>
+    <string name="carrera">Carrera: Tecnico en Ingenieria de Sistemas Informaticos</string>
+    <string name="ciclo">Ciclo: Ciclo II 2021</string>
+
+
+    <string name="ejercicio1">Ejercicio 1</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Inicio</string>
+    <string name="second_fragment_label">Segunda pantalla</string>
+
+
+    <string name="next">Ver la siguiente pantalla</string>
+    <string name="previous">Regresar a la pantalla principal</string>
+    <string name="inicio">Inicio</string>
+
+
+    <string name="hello_first_fragment">¡Bienvenido! </string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FirstFragment"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:ignore="MissingClass">
+
+    <TextView
+        android:id="@+id/textview_first"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="casual"
+        android:text="@string/hello_first_fragment"
+        android:textColor="@color/black"
+
+
+        android:textSize="40dp" />
+
+    <Button
+        android:id="@+id/button_first"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="270dp"
+        android:text="@string/next" />
+<!--    <Button-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:textSize="10dp"-->
+<!--        -->
+<!--        android:onClick="redad"-->
+<!--        android:text="salir"-->
+<!--        tools:ignore="OnClick" />-->
+
+    <TextView
+        android:id="@+id/autor"
+        android:paddingTop="50dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:text="Creador: Mateo Ceron" />
+    <TextView
+        android:id="@+id/drechos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:text="©Todos los derechos reservados 2021 " />
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>

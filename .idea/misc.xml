@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ITCA/Desktop/EjerciciosPracticos/app/src/main/res/layout/activity_capturar_boton.xml" value="0.5" />
+        <entry key="..\:/Users/ITCA/Desktop/EjerciciosPracticos/app/src/main/res/layout/activity_control_check_box.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ITCA/Desktop/EjerciciosPracticos/app/src/main/res/layout/activity_control_list_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ITCA/Desktop/EjerciciosPracticos/app/src/main/res/layout/activity_controlador_spinner.xml" value="0.5" />
+        <entry key="..\:/Users/ITCA/Desktop/EjerciciosPracticos/app/src/main/res/layout/activity_radio_group.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Usuario/Desktop/Androi Studio/EjerciciosPracticos/app/src/main/res/layout/activity_acerca_de.xml" value="0.22" />
+        <entry key="..\:/Users/Usuario/Desktop/Androi Studio/EjerciciosPracticos/app/src/main/res/layout/activity_almacenamiento_clase_shared.xml" value="0.25" />
+        <entry key="..\:/Users/Usuario/Desktop/Androi Studio/EjerciciosPracticos/app/src/main/res/layout/activity_bienvenida.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Usuario/Desktop/Androi Studio/EjerciciosPracticos/app/src/main/res/layout/activity_capturar_boton.xml" value="0.25" />
+        <entry key="..\:/Users/Usuario/Desktop/Androi Studio/EjerciciosPracticos/app/src/main/res/layout/activity_control_check_box.xml" value="0.25" />
+        <entry key="..\:/Users/Usuario/Desktop/Androi Studio/EjerciciosPracticos/app/src/main/res/layout/activity_control_edit_text.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Usuario/Desktop/Androi Studio/EjerciciosPracticos/app/src/main/res/layout/activity_control_list_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Usuario/Desktop/Androi Studio/EjerciciosPracticos/app/src/main/res/layout/activity_controlador_spinner.xml" value="0.33" />
+        <entry key="..\:/Users/Usuario/Desktop/Androi Studio/EjerciciosPracticos/app/src/main/res/layout/activity_controlimge_button.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Usuario/Desktop/Androi Studio/EjerciciosPracticos/app/src/main/res/layout/activity_lanzar_segunda_actividad.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Usuario/Desktop/Androi Studio/EjerciciosPracticos/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Usuario/Desktop/Androi Studio/EjerciciosPracticos/app/src/main/res/layout/activity_notificaciones_sencillas.xml" value="0.25" />
+        <entry key="..\:/Users/Usuario/Desktop/Androi Studio/EjerciciosPracticos/app/src/main/res/layout/activity_parametros.xml" value="0.25" />
+        <entry key="..\:/Users/Usuario/Desktop/Androi Studio/EjerciciosPracticos/app/src/main/res/layout/activity_paremetros2.xml" value="0.2" />
+        <entry key="..\:/Users/Usuario/Desktop/Androi Studio/EjerciciosPracticos/app/src/main/res/layout/activity_problema_propuesto.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Usuario/Desktop/Androi Studio/EjerciciosPracticos/app/src/main/res/layout/activity_problema_propuesto2.xml" value="0.25" />
+        <entry key="..\:/Users/Usuario/Desktop/Androi Studio/EjerciciosPracticos/app/src/main/res/layout/activity_radio_group.xml" value="0.25" />
+        <entry key="..\:/Users/Usuario/Desktop/Androi Studio/EjerciciosPracticos/app/src/main/res/layout/content_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Usuario/Desktop/Androi Studio/EjerciciosPracticos/app/src/main/res/layout/fragment_first.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Usuario/Desktop/Androi Studio/EjerciciosPracticos/app/src/main/res/layout/fragment_second.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Usuario/Desktop/Androi Studio/EjerciciosPracticos/app/src/main/res/menu/menu_main.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
